@@ -101,7 +101,7 @@ Permitir que qualquer usuário registre, categorize e acompanhe suas finanças p
 - feito teste de fluxo e adicionado IA ao chat.
  link do chat https://chat-cash-chatter.lovable.app
 
-https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8
+https://www.google.com/search?vsrid=CJaA4f6gpv7b0wEQAhgBIiRlMmUxNGE3Yy1lYTRkLTQ5MDItYjExNi00ODkzOTY4OTFjMjIyBiICY2coDjiXxfrR9cSSAw&vsint=CAIqDAoCCAcSAggKGAEgATojChYNAAAAPxUAAAA_HQAAgD8lAACAPzABENgDGIAIJQAAgD8&udm=26&lns_mode=un&source=lns.web.wil&vsdim=472,1024&gsessionid=irCkFlo5wzx7GQNj4D-nY9WfJlhsKMJca47no0erTxZpJuoM8bqZXg&lsessionid=sbHF4_345zxHLIsFYxmAmduM5mMFcxRIUAt_ixt5HU7MkhtSX12mCg&lns_surface=26&lns_vfs=e
 
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
