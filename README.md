@@ -101,7 +101,37 @@ Permitir que qualquer usuário registre, categorize e acompanhe suas finanças p
 - feito teste de fluxo e adicionado IA ao chat.
  link do chat https://chat-cash-chatter.lovable.app
 
-https://lovable.dev/projects/94d91a25-3968-4374-a227-b219e1411a29?magic_link=mc_89400e17-a48f-4d7a-92ca-f9c66554f2f2
+- Resumo 
+
+...markdown
+# 📱 Fluidin
+
+**Suas finanças, simplificadas.**
+
+O **Fluidin** é um aplicativo voltado para gestão financeira pessoal, com foco em praticidade e acessibilidade.  
+
+## ✨ Funcionalidades
+
+- **Login seguro**  
+  Autenticação via e-mail e senha, com opção de visualizar/ocultar caracteres da senha.
+
+- **Interface intuitiva**  
+  Design simples e direto, facilitando o acesso às principais funções.
+
+- **Gestão de finanças**  
+  Organização de entradas e saídas financeiras de forma clara e objetiva.
+
+- **Navegação prática**  
+  Barra de navegação com acesso rápido às seções principais, como **Chat** e **Preview**.
+
+- **Compatibilidade mobile**  
+  Interface adaptada para dispositivos móveis, garantindo usabilidade em qualquer lugar.
+
+## 🚀 Objetivo
+
+O Fluidin foi criado para **simplificar o controle financeiro**, permitindo que qualquer pessoa acompanhe suas finanças de forma fácil, rápida e segura.
+...
+
 
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
