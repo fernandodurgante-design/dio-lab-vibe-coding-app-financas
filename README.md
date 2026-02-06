@@ -141,7 +141,9 @@ O Copilot proporciona uma dinâmica envolvente e inteligente, transformando a fo
 ### O que não funcionou como o esperado?  
   No início, achei as funcionalidades bem fracas, mas, com o passar das interações, pude perceber que dá para explorar bastante e melhorar cada vez mais o app. Mesmo utilizando o Lovable na versão gratuita, imagino que, em uma versão paga, seja possível fazer muito mais.
 ### O que aprendeu sobre conversar com IAs?
-A facilidade e a rapidez trazem agilidade ao processo. Apesar de eu estar trabalhando apenas com o celular, preciso de um PC para aprimorar o aprendizado, pois acredito que, ao melhorar os prompts, intensificar as interações e estar atento aos detalhes, é possível alcançar resultados que dominam o raciocínio do Vibe Coding, mesmo sem escrever uma única linha de código.
+A facilidade e a rapidez proporcionam maior agilidade ao processo. Embora eu esteja trabalhando apenas pelo celular, reconheço a necessidade de utilizar um computador para aprimorar o aprendizado. Acredito que, ao aperfeiçoar os prompts, intensificar as interações e manter atenção aos detalhes, é possível alcançar resultados sólidos que demonstram pleno domínio do raciocínio do Vibe Coding, mesmo sem a necessidade de escrever uma única linha de código.
+
+
 ## 💬 Conclusão
 
 
