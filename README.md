@@ -93,6 +93,15 @@ Permitir que qualquer usuário registre, categorize e acompanhe suas finanças p
 - Reunir dataset de exemplos em português para treinar o NLP.  
 - Planejar beta fechado e definir painel de KPIs.
 ...
+
+
+- interações com o loveble:
+- Crie um app de finanças pessoais com base no seguinte PRD (Product Requirements Document) : # PRD - fluidin
+- foi adicionadologin e algumas edições fixas 
+- feito teste de fluxo e adicionado IA ao chat.
+ #link do chat https://chat-cash-chatter.lovable.app
+
+
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
