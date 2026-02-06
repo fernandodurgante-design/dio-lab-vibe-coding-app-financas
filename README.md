@@ -100,6 +100,7 @@ Permitir que qualquer usuário registre, categorize e acompanhe suas finanças p
 - feito teste de fluxo e adicionado IA ao chat.
  link do chat https://chat-cash-chatter.lovable.app
 
+---
 - Resumo 
 
 # 📱 Fluidin
@@ -128,63 +129,19 @@ O **Fluidin** é um aplicativo voltado para gestão financeira pessoal, com foco
 ## 🚀 Objetivo
 
 O Fluidin foi criado para **simplificar o controle financeiro**, permitindo que qualquer pessoa acompanhe suas finanças de forma fácil, rápida e segura.
-...
-
-
-
-
-
-# 💰 Fluidin
-
-**Suas finanças, simplificadas.**
-
-O **Fluidin** é um aplicativo de gestão financeira pessoal desenvolvido para tornar o controle das suas finanças mais fácil, rápido e acessível.
-
 ---
 
-## ✨ Funcionalidades
-
-- **Login seguro**  
-  Autenticação via e-mail e senha, com opção de visualizar/ocultar caracteres da senha.
-
-- **Interface intuitiva**  
-  Design simples e direto, facilitando o acesso às principais funções.
-
-- **Gestão de finanças**  
-  Organização de entradas e saídas financeiras de forma clara e objetiva.
-
-- **Navegação prática**  
-  Barra de navegação com acesso rápido às seções principais, como **Chat** e **Preview**.
-
-- **Compatibilidade mobile**  
-  Interface adaptada para dispositivos móveis, garantindo usabilidade em qualquer lugar.
-
----
-
-## 📸 Captura de Tela
-
-![Login Fluidin](docs/images/login-fluidin.png)
-
----
-
-## 🚀 Instalação e Uso
-
-### 1. Clone o repositório
-```bash
-git clone https://github.com/seu-usuario/fluidin.git
-cd fluidin
 
 
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+## reflexão sobre o processo**:
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
+### O que funcionou bem?  
+ O copilot traz uma dinamica boa e o loveble se você tiver tempo consegue algo bem bacana.
+### O que não funcionou como o esperado?  
+  No inicio achei as funcionalidades bem fracas, mas com o passar das interações pude ver que da pra brincar bastante e melhorar cada vez mais o app, mesmo com o loveble na versão gratuita, imagino que numa versao paga da pra fazer muita coisa.
+### O que aprendeu sobre conversar com IAs?
+ A facilidade e rapidez traz uma agilidade no processo, apesar de eu estar trabalhando apenas com o celular,preciso de um PC pra arimorar o aprendizado, ppis acredito que aprimorando os pronts,intensificando as interferências e estando atento aos detalhes pode se conseguir resultados absolutamente  domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
 ## 💬 Conclusão
 
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+Sobre o processo de vibe coding entendi que a interação em PLN é o que faz o processo ser incrivelmente facilitado. Com expertise, consciência e criatividade pode se alcançar ótimos resultados para trabalho e vida pessoal.
