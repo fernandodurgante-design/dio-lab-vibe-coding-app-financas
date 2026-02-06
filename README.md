@@ -97,10 +97,12 @@ Permitir que qualquer usuário registre, categorize e acompanhe suas finanças p
 
 - interações com o loveble:
 - Crie um app de finanças pessoais com base no seguinte PRD (Product Requirements Document) : # PRD - fluidin
-- foi adicionadologin e algumas edições fixas 
+- Adicionado pagina de login e algumas edições fixas 
 - feito teste de fluxo e adicionado IA ao chat.
- #link do chat https://chat-cash-chatter.lovable.app
+ link do chat https://chat-cash-chatter.lovable.app
 
+
+https://share.icloud.com/photos/038RHxYD3hyLx4yu17HQSjyHg
 
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
