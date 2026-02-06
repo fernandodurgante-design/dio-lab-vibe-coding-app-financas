@@ -1,4 +1,6 @@
-# 💸 App "fluidin" finanças Pessoais com Vibe Coding
+# App "fluidin" finanças Pessoais com Vibe Coding
+
+# PRD refinado no copilot 
 
 ...markdown
 # PRD - fluidin
@@ -90,15 +92,7 @@ Permitir que qualquer usuário registre, categorize e acompanhe suas finanças p
 - Criar protótipo de chat clicável para testes de usabilidade.  
 - Reunir dataset de exemplos em português para treinar o NLP.  
 - Planejar beta fechado e definir painel de KPIs.
-
-
-
-### 3. Entregando o Desafio na DIO
-
-Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
-No README do seu repositório, inclua:
-
-- Seu **prompt final** (PRD);  
+...
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
