@@ -136,12 +136,13 @@ O Fluidin foi criado para **simplificar o controle financeiro**, permitindo que 
 ## reflexão sobre o processo**:
 
 ### O que funcionou bem?  
- O copilot traz uma dinamica boa e o loveble se você tiver tempo consegue algo bem bacana.
+ 
+O Copilot proporciona uma dinâmica envolvente e inteligente, transformando a forma como interagimos com ideias e projetos. Já o Lovable, mesmo em sua versão gratuita, oferece recursos que, com dedicação e tempo, permitem criar experiências criativas e surpreendentes. Juntos, eles formam uma combinação poderosa para quem busca inovação e produtividade no dia a dia.
 ### O que não funcionou como o esperado?  
-  No inicio achei as funcionalidades bem fracas, mas com o passar das interações pude ver que da pra brincar bastante e melhorar cada vez mais o app, mesmo com o loveble na versão gratuita, imagino que numa versao paga da pra fazer muita coisa.
+  No início, achei as funcionalidades bem fracas, mas, com o passar das interações, pude perceber que dá para explorar bastante e melhorar cada vez mais o app. Mesmo utilizando o Lovable na versão gratuita, imagino que, em uma versão paga, seja possível fazer muito mais.
 ### O que aprendeu sobre conversar com IAs?
- A facilidade e rapidez traz uma agilidade no processo, apesar de eu estar trabalhando apenas com o celular,preciso de um PC pra arimorar o aprendizado, ppis acredito que aprimorando os pronts,intensificando as interferências e estando atento aos detalhes pode se conseguir resultados absolutamente  domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
-
+A facilidade e a rapidez trazem agilidade ao processo. Apesar de eu estar trabalhando apenas com o celular, preciso de um PC para aprimorar o aprendizado, pois acredito que, ao melhorar os prompts, intensificar as interações e estar atento aos detalhes, é possível alcançar resultados que dominam o raciocínio do Vibe Coding, mesmo sem escrever uma única linha de código.
 ## 💬 Conclusão
 
-Sobre o processo de vibe coding entendi que a interação em PLN é o que faz o processo ser incrivelmente facilitado. Com expertise, consciência e criatividade pode se alcançar ótimos resultados para trabalho e vida pessoal.
+
+Sobre o processo de vibe coding, entendi que a interação em PLN é o que torna o processo incrivelmente facilitado. Com expertise, consciência e criatividade, é possível alcançar ótimos resultados tanto no trabalho quanto na vida pessoal.
